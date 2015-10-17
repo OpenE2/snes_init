@@ -2,7 +2,7 @@
 
 - SNES-Init will be donated to OE-Alliance by GigaBlue.
 - SNES-Init requires snes9x-sdl, libsdl, directfb, snes-init and also audio-support.
-- SNES-Init can be modified or adapted to work with stb's from other vendors as long naming "SNES-Init" is not changed and logos of openMultiBoot persists.
+- SNES-Init can be modified or adapted to work with stb's from other vendors as long naming "SNES-Init" is not changed.
 - **GigaBlue takes no responsibility for any potential damage SNES-Init might cause on stb's from other vendors.**
 
 
